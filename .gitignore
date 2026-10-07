@@ -1,0 +1,17 @@
+# Screen recording
+18-36-44.mp4
+
+# Root duplicate frames (kept in assets/frames/)
+/ezgif-frame-*.jpg
+
+# Temp crops & test files
+loc_slice.jpg
+locations_raw_frame.jpg
+locations_raw_frame2.jpg
+frame_97_small.jpg
+loc_96_5.jpg
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
